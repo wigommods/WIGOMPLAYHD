@@ -1,3 +1,289 @@
 #EXTM3U url-tvg="https://bit.ly/EPGWIGOMPLAYHD"
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LX5xhqqC/wigommodsplay.png" group-title="Info",WIGOM PLAY HD 07/10/22
 https://www.youtube.com/watch?v=FyoTQCmpgzs
+
+#EXTM3U
+#EXTINF:0 tvg-logo="http://i.imgur.com/rR0GWJK.jpg" group-title="BLEACH" , BLEACH
+http://0.0.0.0
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 001
+https://selene10.xyz/vod/17e43fdf6bba259e88fb9bb0cbaec66f/29a1aa9a4856d199f040d3a856593609.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 002
+https://selene10.xyz/vod/2afd376161300d6184285bbf099fd619/2145f117b3bbe2d85acbe4e5de6ba152.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 003
+https://selene10.xyz/vod/cdea85f1562ec7f397f89f7dbff22dd8/60b7a6eacd533bb5ad0201dbf05bc54b.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 004
+https://selene10.xyz/vod/f0292cd94f3722211d31c4bcd9e7bac8/869e901fd7a02b11f734849eae7641e9.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 005
+https://selene10.xyz/vod/e035f5a672f7431bbe5f3d4dbb8ec65a/73436db5795e05842882a2c95663f5da.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 006
+https://selene10.xyz/vod/a631763e72c65926cd017d3aa5ed015b/f586b21b865d12b1ee8823cc3ef8a26f.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 007
+https://selene10.xyz/vod/7165262c8ef30d824ec41b4b1040497f/05142b5bacfdd844d1a8eb00dbd31691.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 008
+https://selene10.xyz/vod/4c2bdc7bf14b597190466419f96e6ac2/44fbaff4cf54cbe2db7cff2cf389aa79.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 009
+https://selene10.xyz/vod/6e2a7ccbe53b21cc68581c12424156cb/8ff01b7bb67b3e5397f55de0c8413fed.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 010
+https://selene10.xyz/vod/f077018b56838a4f31ffb707bbc45247/476a52f5db96a08bcfe4d50009a27f14.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 011
+https://selene10.xyz/vod/4fd16a65db24a91d0da06b2fca8348aa/85b96b79918dbe0613fdb07ce6a81cc6.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 012
+https://selene10.xyz/vod/c0e5f8b849d7bdf1133163ae16de4bc2/024176536dee54d301bd006647f12297.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 013
+https://selene10.xyz/vod/bb6813dd4ff9b19b560a6c6be142c21c/d7187890aca821606989be9ff523f617.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 014
+https://selene10.xyz/vod/5eefcf6f8bed2f414010801b895b210f/6413e6705489146ca2e4f4c454f8206b.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 015
+https://selene10.xyz/vod/cfe0b9e699aa3427ab94ddea06f0a9ee/a6b1a1c6936d498e606a46085293a6e6.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 016
+https://selene10.xyz/vod/a8e3cfe25b6d42baf73ad03909938012/1c3e3e0715e48a9a1ad105f44c963375.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 017
+https://selene10.xyz/vod/247dd3434a0b5574fc6df4a46fe20eee/330126eff11eb182cc839702d2177e01.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 018
+https://selene10.xyz/vod/6f122d3d998e89cd106e41a73e623706/414ddf41076e286e5c1a830e92ae2c93.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 019
+https://selene10.xyz/vod/c46dfa996bc5d062292ebdac69ceaa26/37ea06d878a549ec95d808ac7be88a54.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 020
+https://selene10.xyz/vod/813c62a1db7fbf836b35320e4bd31751/eece9bc22734960d498af94477bc2c4a.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 021
+https://selene10.xyz/vod/6a4fc8535f5893b78e91c8a2e91b7ccc/f3ed72f57be28882f3b8afd5ec87ef5a.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 022
+https://selene10.xyz/vod/43dd1a155ea577fdc57e396083fcde3a/ea998e0565518797d53c3f6d6e001688.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 023
+https://selene10.xyz/vod/c389d9f4e8a6d6039cf356b2b1adb7a4/5c7066da17a443d5234d4d0168f3813f.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 024
+https://selene10.xyz/vod/478d0a824a4a1cbfa6ea462d9ff8ead1/ed6dcae9d9adfdd217457107aff44bee.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 025
+https://selene10.xyz/vod/68f70de228e8723a294205c7a132b2a5/6198872b74a05623d00bde948e11a1e8.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 026
+https://selene10.xyz/vod/c20fc0eb3ec4291848d243711386999a/c1e1b87cc890b6a3451eaee89c2b6274.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 027
+https://selene10.xyz/vod/f91825207e959f92037264b718121b1f/8dfe3d84f2896c52e338966a0a1bbb73.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 028
+https://selene10.xyz/vod/00065483c55cbb33bebafef895a79f8d/35c3f3f99136094724639c949d505505.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 029
+https://selene10.xyz/vod/a135a97f52bc6ebcfedb9470fce298de/a70c85f44d64938306cff149e9b14824.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 030
+https://selene10.xyz/vod/483eb3f927ec1e2dc08bb7f243cf9f1e/0553cf30c86f7e677b243e72b94c99e6.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 031
+https://selene10.xyz/vod/285382f204978888eaf993604072ac50/45d166538718712288d70b86b036a378.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 032
+https://selene10.xyz/vod/fbef592cb266f8031d0826f128d110dd/5af7382d559a7876fa433d339c4cb9f6.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 033
+https://selene10.xyz/vod/4846c9cadec252cb3c1f2256f07cbf24/3104b9440579f19d9adacd73cd99b5c6.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 034
+https://selene10.xyz/vod/8d91ca2a4f7f88a64136faefd4348f0a/53a6077a774ca7bf6caee93ebfa96b27.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 035
+https://selene10.xyz/vod/53e8c7a7717fd3a3c564b538116382ab/c98d8f17e82b15692e526e6991ab3ff5.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 036
+https://selene10.xyz/vod/0503c864a6b180617fbd09f9051572fb/685d5dca9785f2011522264a391616ed.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 037
+https://selene10.xyz/vod/16815dd9fb1c94a23462ac075bcd44d0/120d023eea955c46727dd190bc850858.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 038
+https://selene10.xyz/vod/877b3e8688f12df8a0a54481c040a1ec/e4227878b41876b58fa7f91eaa0494f3.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 039
+https://selene10.xyz/vod/f2ed1b66d5c1f73436faa824b941e408/42d412157401e458c97b79b2b5b22c3b.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 040
+https://selene10.xyz/vod/36bbfbbeb59cfb025e812e234558bf28/67e8fcb139e2da378131ec39b2f39946.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 041
+https://selene10.xyz/vod/4630478ed7541f9cf09f538fd3750f9e/9cbe5fa5a297ce5f1d5f364eb5f66237.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 042
+https://selene10.xyz/vod/332c15acda7a95b5abe313336b15b588/05fe6687ea1982ec1aad4f94576a9839.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 043
+https://selene10.xyz/vod/b99bbba872cffdd1434b1477dec27c57/db7fd9618a59aaefe7d3d497cf3e184c.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 044
+https://selene10.xyz/vod/2d812e93d16a0469aab7bc2fce602b7f/fb7171344063827d4980d1e4094c4ad8.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 045
+https://selene10.xyz/vod/2173144579e8f091de2e239d479dda55/3a7348aa347971bb6256e0c4f664e1f9.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 046
+https://selene10.xyz/vod/960183eb3581c63364558807f77eb5e7/70a7f0ee7fbbc3141ebe620220bb9293.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 047
+https://selene10.xyz/vod/5e2c14163159eda93128d4cac5dfa223/8d68b542bf7f77d512aac8cdd12645c7.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 048
+https://selene10.xyz/vod/88c4915128e3759fc63a8153170517a7/8b7b06b142cb6a4199762c24f0294cf6.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 049
+https://selene10.xyz/vod/dc39f6340308ac3b55b7b28167fe8b78/a951dced8f2365b01a1f6c411239875b.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 050
+https://selene10.xyz/vod/172842820b45eb99821b30cb8f5a05ef/230734f67250cf504e1d469867da74b5.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 051
+https://selene10.xyz/vod/5cae91bbb543abca89e1d4829c1af2b4/99b6ba9b420380425587473129987d44.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 052
+https://selene10.xyz/vod/ba904787a8eb071c20703e5294790381/2583ec54710dfd680b42e8fa8a05acd2.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 054
+https://selene10.xyz/vod/361ac326585068ae9ff07cb2f65e7997/ae37c63fca15b32f4196c5a3e7821d3e.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 055
+https://selene10.xyz/vod/94264b810ed2c4949ce95ab57b583d16/82b93b5003137cbaa2c0a1ed2e36714a.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 056
+https://selene10.xyz/vod/122ac776ee21254315ca8d909e507318/8373e386742caca55ff15b99bee2d63d.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 057
+https://selene10.xyz/vod/9b686a0ae14cd9440f4f4cfc90a830cd/5d8cac48aaa7f18395afe2ceb22ffd23.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 058
+https://selene10.xyz/vod/00c78e39622606eeb8d0221487c90155/08d33fbe65504b9ef4418b09a77e3996.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 059
+https://selene10.xyz/vod/602d287957fefdac32dd0174236c8e00/31d2ea147c66f2236225fc99a38b0ff3.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 060
+https://selene10.xyz/vod/f30fd2e89e0bae402b6dc75deb6347bd/318e1562eacec2353a503d15b61feb64.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 061
+https://selene10.xyz/vod/10b8851fd4aae428c3dca73e5fc1f3e5/d6712896a306a0c0f5e0f1a7fb7a031f.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 062
+https://selene10.xyz/vod/169debd95f8b1c3030e26a3b91611387/e8b7b5c9ff0ab83c4a3d2f60c10825c5.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 064
+https://selene10.xyz/vod/f3fbeda79dd292ecb4f41fa014b5a8b9/35358ce8ad272188cbeed3e64428f1ab.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 065
+https://selene10.xyz/vod/e14d14cb664a48e53643fac7c8c09812/b742e7680beefd43d271f553ec04d38a.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 066
+https://selene10.xyz/vod/53902c0c9ab730b7274df8078bfa18b4/85608aa238ef1934075771e035226231.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 067
+https://selene10.xyz/vod/43f3b576ae59d66bb29dc0da139fe47b/1faaf6dd8e855e3f722dbc240c68f179.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 068
+https://selene10.xyz/vod/9f14e00e8d4294ec9355d25b28b25672/19c1f795d21b644312c05d02f6c58cc6.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 070
+https://selene10.xyz/vod/9336f5c197c4424f7bf8becfdd49424c/db4efe2f2bb395cc11606f6f3c10cc33.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 071
+https://selene10.xyz/vod/eebd25e5ee32051f01bd64730f5ff275/741a54264515be8401ad377b24b768ab.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 072
+https://selene10.xyz/vod/b98a144c69477b98fd6ca824665f3feb/8186051389a9829f53bbb29e022895c1.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 073
+https://selene10.xyz/vod/2c94a517f3e7c843755dfb07aa7e8981/b7219ebe4318c275e4ad34ac81c3ce39.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 075
+https://selene10.xyz/vod/309e15069e0e34d54b02c589228f81c0/2af6fbc084131ff8bce2d2469ced1413.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 077
+https://selene10.xyz/vod/847e34f106c0cb9c665166146ae5f3a5/91fe803588b3d8ea77481a8291993947.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 078
+https://selene10.xyz/vod/b2a189a98e1b03863e1e9a2824c9c392/f722bb6a2ad1c7c128bdb309d0fc0b03.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 079
+https://selene10.xyz/vod/b0fb213a4ec14a71a09c57161d99ed73/b45bda622ef7badf80eea827d15a0f1e.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 080
+https://selene10.xyz/vod/cb5def5a3f9a5dfa655159b014026bc0/bd7746c37ec10ba04112d15c1423bdf2.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 081
+https://selene10.xyz/vod/3d3215f22f9eeb7632466a38810c1cc4/b0dcb796e522938b903646f31c3ea6d8.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 082
+https://selene10.xyz/vod/880d921e12b9b9a3bafc4fddcf46ba2d/bb6ffc8265f105bb1e610445171fc91a.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 083
+https://selene10.xyz/vod/117db9f987caf0fa27d0adc207250b8c/62fb54bad2443bda3afc61a3b874e973.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 084
+https://selene10.xyz/vod/eff010a0f17308c5aa1062e181ed77dc/b8be71c30858fe015833bda8bdceee66.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 086
+https://selene10.xyz/vod/4ca83663b8c44b812946c9f55db09a05/0305235800dac9cc1a2b719f19624821.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 087
+https://selene10.xyz/vod/e01a6058d0c7fd64c7563f0f2e2874b7/1b0b9008af3b5bfd8b7a09b41c0e9d68.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 088
+https://selene10.xyz/vod/a5f2c3f2a6d35ccf3af1f6653691af0f/36f8c45906a308f0e46e54762a755ed7.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 089
+https://selene10.xyz/vod/2ed6f3a5114461228ef764923f3e9ea1/b2591858ce9b8a92264f9b36120dea92.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 090
+https://selene10.xyz/vod/9a720a10385e25107d17b5dfd13c5e57/c5086cf8546441304dd0686f505d9a40.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 091
+https://selene10.xyz/vod/83eca8523ff01e63245bf6663ef4a5a6/5d0abb9ba2d2ee699f57324018280798.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 092
+https://selene10.xyz/vod/33ff3b629e1800b4e9acb0ce2a9b69d3/e35eeda34766cba4ae94cc8093dae394.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 093
+https://selene10.xyz/vod/a6cb2944b82d13c4db419d77ae57414d/eae6b38ebafa83e7ab5bbd0e312e8fc5.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 094
+https://selene10.xyz/vod/1c1b20d5eba3a03b6defd486c9d818c2/5f08ea715129880a637e5fac639bccad.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 095
+https://selene10.xyz/vod/299842138fbf5a82d21153f43642e26f/77d7b891e863284e853d630961534495.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 096
+https://selene10.xyz/vod/d3c1d589753401ea3178e0869369c3ac/ffcd08bcad205734b49ddd509f7fcda5.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 097
+https://selene10.xyz/vod/c7a9dc8aaa612a774f6118fc47ec6bab/d6eff9fd78007f019ec5bd576884ae76.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 098
+https://selene10.xyz/vod/d68127db566c05f80ba099a179597deb/814132af9f853e682bd98f648142da9e.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 099
+https://selene10.xyz/vod/adc8d4a9d88a6ef3d2c4b1f0e62640fe/b6f498b99ec317b73a10b560373a4eb3.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/CRgxBL6.jpg" group-title="BLEACH" , EPISODIO 100
+https://selene10.xyz/vod/3d75f30830e4bbfe6d12007e999a16ed/67f0d0a7f908a5b621204260f2c50c97.mp4/chunk.m3u8
